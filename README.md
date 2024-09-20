@@ -53,9 +53,9 @@ Submitted by Jene🚍🏎🚉🚅🚇🚃🚋
    *     3. view pokemon - displays the details of the pokemon (from pokeapi)...
      >   - this will throw an error if pokemon is not on your box
   
- ##  Limitations:
- * No checking for duplicates
- * Must be run with ts-node
-
+ #  Limitations:
+ ## * No checking for duplicates
+ ## * Must be run with ts-node
+ ## * Must Store atleast 1 pokemon before finding ( [3] - Find ) any pokemon in the API
 
   
