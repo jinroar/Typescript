@@ -9,7 +9,7 @@ Submitted by Jene🚍🏎🚉🚅🚇🚃🚋
         "start": "ts-node pokebox.ts && node pokebox.js",                
         "build": "tsc"                                            
     }                                                             
-
+  **this runs twice but both (.js/.ts)produce the same outcome**
     
   2. Run in terminal: 
     
